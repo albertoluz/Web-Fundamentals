@@ -11,7 +11,7 @@ console.log(7%7);
 
 console.log(22%5);
 console.log(100%22);
-a
+
 console.log(4*3+12-24+12);
 
 
