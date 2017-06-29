@@ -86,3 +86,6 @@ console.log(favoriteCandy);
 
 favoriteCandy.push("Skittles");
 console.log(favoriteCandy);
+
+var name = ['a', 'l', 'b', 'e', 'r', 't','o'];
+var rev
